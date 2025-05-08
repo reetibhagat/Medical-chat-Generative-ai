@@ -26,7 +26,8 @@ pip install -r requirements.txt
 ```
 
 
-### Create a `.env` file in the root directory and add your Pinecone credentials as follows:
+### Create a `.env` file in the root directory and add your Pinecone credentials as follows or can use chromeDB vector database.
+ I have used chromeDB vector database
 
 ```ini
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
